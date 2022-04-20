@@ -73,3 +73,5 @@ git switch v1
 #zad15
 git describe bugFix
 git commit
+
+#komentarz dla statystyk
